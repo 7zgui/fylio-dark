@@ -1,3 +1,26 @@
+@import '_variables.css';
+
 body{
     max-width: 1440px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 11px;
+    text-align: center;
+    margin: 0;
+    padding: 0;
 }
+
+header{
+    background-color: var(--mainBackground);
+}
+
+a , a:hover , a:active {
+    text-decoration: none;
+    color: var(--lightGrey);
+} 
+
+span{
+    display: inline-flex;
+    padding-right: 15px;
+}
+
+

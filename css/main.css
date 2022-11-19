@@ -1,0 +1,14 @@
+@import '_global.css';
+@import '_variables.css';
+
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 45px;
+}
+
+.logo{
+    height: 30px;
+}

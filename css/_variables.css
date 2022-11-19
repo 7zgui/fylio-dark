@@ -1,0 +1,11 @@
+:root{
+    --emailSignupBackground : hsl(217, 28%, 15%);
+    --mainBackground : hsl(218, 28%, 13%);
+    --footerBackground : hsl(216, 53%, 9%);
+    --testemonialsBackground : hsl(219, 30%, 18%);
+    --lightGrey : hsl(223, 8%, 84%);
+    --cyan : hsl(176, 68%, 64%);
+    --blue : hsl(198, 60%, 50%);
+    --lightRed : hsl(0, 100%, 63%);
+    --white : hsl(0, 0%, 100%);
+}
