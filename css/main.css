@@ -22,6 +22,10 @@
     position:abolute;
 }
 
+.sectionImg{
+    height: 50px;
+}
+
 .title2{
     color: var(--white);
     font-weight: 700;
@@ -37,5 +41,41 @@
     width: 350px;
     margin: auto;
     margin-top: 10px;
+    color: var(--lightGrey);
+}
+
+.title4{
+    color: var(--white);
+    font-weight: 400;
+    width: 300px;
+    margin: auto;
+    margin-top: 10px;
+    color: var(--lightGrey);
+}
+
+.sectionTitles{
+    color: var(--white);
+    font-size: 15px;
+    margin-top: 10px;
+}
+
+.mainSection{
+    height: 600px;
+    background-color: var(--emailSignupBackground);
+    background-image: url("../images/bg-curvy-desktop.svg");
+    background-repeat: no-repeat;
+    background-position:bottom;
+    background-position-y: 200px;   
+}
+
+.secondSection{
+    padding-top: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: var(--mainBackground);
+    justify-content: center;
+}
+.sectionPart{
+    margin: 10px 40px;
 }
 
