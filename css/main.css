@@ -12,3 +12,30 @@
 .logo{
     height: 30px;
 }
+
+.imgIntro{
+  height: 300px;
+}
+
+.imgCurve{
+    width: 100%;
+    position:abolute;
+}
+
+.title2{
+    color: var(--white);
+    font-weight: 700;
+    font-size: 30px;
+    width: 500px;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.title3{
+    color: var(--white);
+    font-weight: 400;
+    width: 350px;
+    margin: auto;
+    margin-top: 10px;
+}
+
